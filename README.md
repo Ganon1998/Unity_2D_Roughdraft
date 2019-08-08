@@ -1,1 +1,1 @@
-# First Unity Game
+# Controls are described in the startscreen
